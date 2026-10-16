@@ -1,8 +1,7 @@
 
 {
   "version": "1.1.0",
-  "message": "Nova atualização disponível!",
+  "message": "Nova atualização da Veltrix Games!",
   "package_url": "https://github.com/hebert523/veltrix-updates/releases/download/1.1.0/default.pck",
-  "package_size": 0,
-  "sha256": "527405f9bdae067b2d3bdf6203d97b2170ff0957f1848b429ee73147d40f4d89"
+  "package_size": 0
 }
